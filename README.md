@@ -12,5 +12,7 @@ o sistema de busca do site.
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/api-settings.png"/>
 </div>
+Site na internet:
+<a href="https://thiagoguerra09.github.io/PortalFilmes/Projeto%20Portal/Portal.html">Clique aqui </a>
 
 
